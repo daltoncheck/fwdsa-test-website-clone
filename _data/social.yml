@@ -16,12 +16,6 @@ instagram: &instagram
   url: "https://www.instagram.com/dsachapter/"
   username: dsachapter
 
-github: &github
-  label: "GitHub"
-  icon: "fab fa-fw fa-github"
-  url: "https://github.com/dsachapter"
-  username: dsachapter
-
 email: &email
   label: "Email"
   icon: "fa fa-envelope"
