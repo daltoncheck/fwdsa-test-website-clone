@@ -1,8 +1,8 @@
 ---
 layout: post 
 title: "Fort Wayne DSA Endorses Blaine Sefton for Indiana State Senate District 14"
-permalink: /draft-post-title/
-tag: draft post tag
+permalink: /2026-07-27-fort-wayne-dsa-endorse-blaine-sefton/
+tag: endorsement
 short_description: "Supporting a founding member of the Fort Wayne DSA for office."
 ---
 
