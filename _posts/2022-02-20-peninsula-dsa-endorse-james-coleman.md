@@ -1,6 +1,7 @@
 ---
 layout: post 
 title: "Peninsula DSA Endorses James Coleman for CA State Assembly (AD 21)"
+permalink: /2026-07-24-james-coleman/
 tag: endorsement
 short_description: "Peninsula DSA voted to enthusiastically endorse PDSA member James Coleman."
 ---
