@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "Peninsula DSA Condemns SCOTUS Ruling on Dobbs, Calls for Interstate Solidarity"
-permalink: /2022-06-28-peninsula-DSA-statement-SCOTUS-Dobbs-ruling/
+permalink: /fwdsa-test-website-clone/2022-06-28-peninsula-DSA-statement-SCOTUS-Dobbs-ruling/
 tag: endorsement
 short_description: "Peninsula DSA Condemns SCOTUS Ruling on Dobbs."
 ---
