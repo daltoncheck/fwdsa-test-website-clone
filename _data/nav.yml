@@ -1,11 +1,11 @@
 # header links
 header:
-  - title: "Statements"
+  - title: "Blog"
     url: "/blog/"
-    description: "Link to DSA Chapter's Chapter Statements"
+    description: "Link to Fort Wayne DSA's Statements and Blog posts"
   - title: "Get Involved"
     url: "/get-involved/"
-    description: "Check out what DSA Chapter is working on. Join DSA!"
+    description: "Check out what Fort Wayne DSA is working on. Join DSA!"
   - title: "Events Calendar"
     url: "/calendar/"
     description: "Chapter Events Calendar"
