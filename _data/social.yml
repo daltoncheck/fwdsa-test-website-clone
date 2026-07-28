@@ -1,25 +1,30 @@
 facebook: &facebook
   label: "Facebook"
   icon: "fab fa-fw fa-facebook"
-  url: "https://www.facebook.com/dsachapter/"
-  username: dsachapter
+  url: "https://www.facebook.com/people/Fort-Wayne-DSA/100067025076925/"
+  username: fortwaynedsa
 
-twitter: &twitter
-  label: "Twitter"
-  icon: "fab fa-fw fa-twitter-square"
-  url: "https://twitter.com/dsachapter"
-  username: dsachapter
+# twitter: &twitter
+#  label: "Twitter"
+#  icon: "fab fa-fw fa-twitter-square"
+#  url: "https://twitter.com/dsachapter"
+#  username: dsachapter
 
 instagram: &instagram
   label: "Instagram"
   icon: "fab fa-fw fa-instagram"
-  url: "https://www.instagram.com/dsachapter/"
+  url: "https://www.instagram.com/fortwayne.dsa/"
   username: dsachapter
 
 email: &email
   label: "Email"
   icon: "fa fa-envelope"
   url: "mailto:dsachapter@gmail.com"
+
+bluesky: &bluesky
+  label: "Bluesky"
+  icon: "fa fa-bluesky"
+  url: "https://bsky.app/profile/fwdsa.bsky.social"
 
 # We use the above links in different combinations in 
 # different places in the site. Making lists in the manner
@@ -28,15 +33,15 @@ email: &email
 # This list appears in the footer of every page
 footer:
   - *facebook
-  - *twitter
   - *instagram
+  - *bluesky
   - *email
 
 # This list appears in the dropdown of every blog post
 follow:
   - *facebook
-  - *twitter
   - *instagram
+  - *bluesky
 
 # I don't see where this gets used yet
 share:
