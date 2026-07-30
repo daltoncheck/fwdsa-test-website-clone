@@ -23,7 +23,7 @@ email: &email
 
 bluesky: &bluesky
   label: "Bluesky"
-  icon: "fa fa-bluesky"
+  icon: "fab fa-fw fa-bluesky"
   url: "https://bsky.app/profile/fwdsa.bsky.social"
 
 # We use the above links in different combinations in 
